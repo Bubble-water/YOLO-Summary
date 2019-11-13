@@ -78,7 +78,7 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 
 
 ## 二、500问里目标检测解决的问题和yolo解读
-+ [第八章 目标检测]()
++ [第八章 目标检测](https://github.com/scutan90/DeepLearning-500-questions/blob/master/ch08_%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/%E7%AC%AC%E5%85%AB%E7%AB%A0_%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B.md)
 + https://github.com/scutan90/DeepLearning-500-questions
 
 ## 三、基于YOLO的项目
