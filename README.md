@@ -2,9 +2,7 @@
 ## YOLO源码：
 + https://github.com/pjreddie/darknet
 + https://github.com/AlexeyAB/darknet
-
 非常推荐AlexeyAB的darknet改进版
-
 论文：
 + https://pjreddie.com/media/files/papers/YOLOv3.pdf
 
@@ -83,7 +81,7 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 
 ## 三、基于YOLO的项目
 ### 3.1使用YOLOv3训练、使用Mask-RCNN训练、理解ResNet、模型部署、人脸识别、文本分类等：
-+https://github.com/StevenLei2017/AI_projects
++ https://github.com/StevenLei2017/AI_projects
 ### 3.2基于yolo3 与crnn 实现中文自然场景文字检测及识别
 ![0.png](image/0.png)
 + https://github.com/chineseocr/chineseocr
@@ -117,4 +115,16 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 | YOLO Nano | 4.0MB | 69.1% | 4.57B |
 + https://arxiv.org/pdf/1910.01271.pdf
 + https://github.com/liux0614/yolo_nano
-### 5.4
+### 5.4YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers
+| DataSet       | mAP           | FPS   |
+| ------------- |:-------------:| -----:|
+| PASCAL VOC    | 33.57         |   21  |
+| COCO          | 12.26         |   21  |
++ https://arxiv.org/abs/1811.05588v1
++ https://github.com/reu2018dl/yolo-lite
++ https://mp.weixin.qq.com/s/xNaXPwI1mQsJ2Y7TT07u3g
+### 5.5 SlimYOLOv3: Narrower, Faster and Better for Real-Time UAV Applications
+![6.png](image/6.png)
++ https://arxiv.org/ftp/arxiv/papers/1907/1907.11093.pdf
++ https://github.com/PengyiZhang/SlimYOLOv3
++ https://mp.weixin.qq.com/s/fDOskKqG-fsJmhT0-tdtTg
