@@ -128,3 +128,15 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 + https://arxiv.org/ftp/arxiv/papers/1907/1907.11093.pdf
 + https://github.com/PengyiZhang/SlimYOLOv3
 + https://mp.weixin.qq.com/s/fDOskKqG-fsJmhT0-tdtTg
+### 5.6 Strongeryolo-pytorch - Pytorch implementation of Stronger-Yolo with channel-pruning
+#### Performance on VOC2007 Test(mAP) after pruning
+|Model| Backbone|MAP | Flops(G)| Params(M)|
+| ------ | ------ | ------ | ------ |------ |
+|strongerv3| Mobilev2|79.6|4.33|6.775|
+|strongerv3-sparsed|Mobilev2|77.4|4.33|6.775|
+|strongerv3-Pruned(30% pruned) |Mobilev2|77.1 |3.14|3.36|
+|strongerv2| Darknet53|80.2|49.8|61.6|
+|strongerv2-sparsed|Darknet53|78.1|49.8|61.6|
+|strongerv2-Pruned(20% pruned) |Darknet53|76.8 |49.8|45.2|
+
++ https://github.com/wlguan/Stronger-yolo-pytorch
