@@ -96,6 +96,7 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 + https://github.com/zbyuan/pruning_yolov3
 + https://github.com/coldlarry/YOLOv3-complete-pruning
 + https://github.com/Lam1360/YOLOv3-model-pruning
++ https://github.com/tanluren/yolov3-channel-and-layer-pruning
 
 ## 五、YOLO系列
 ### 5.1 Enriching Variety of Layer-wise Learning Information by Gradient Combination
