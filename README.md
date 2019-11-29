@@ -2,7 +2,7 @@
 ## YOLO源码：
 + https://github.com/pjreddie/darknet
 + https://github.com/AlexeyAB/darknet
-非常推荐AlexeyAB的darknet改进版
+非常推荐AlexeyAB的darknet改进版   
 论文：
 + https://pjreddie.com/media/files/papers/YOLOv3.pdf
 
