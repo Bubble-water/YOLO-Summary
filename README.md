@@ -2,7 +2,7 @@
 ## YOLO源码：
 + https://github.com/pjreddie/darknet
 + https://github.com/AlexeyAB/darknet
-非常推荐AlexeyAB的darknet改进版   
+非常推荐AlexeyAB的darknet改进版  
 论文：
 + https://pjreddie.com/media/files/papers/YOLOv3.pdf
 
@@ -141,3 +141,16 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 |strongerv2-Pruned(20% pruned) |Darknet53|76.8 |49.8|45.2|
 
 + https://github.com/wlguan/Stronger-yolo-pytorch
+
+### 5.7 Learning Spatial Fusion for Single-Shot Object Detection
+![7.png](image/7.png)
+| System |  *test-dev mAP* | **Time** (V100) | **Time** (2080ti)|
+|:-------|:-----:|:-------:|:-------:|
+| [YOLOv3 608](http://pjreddie.com/darknet/yolo/) | 33.0 | 20ms| 24ms|
+| YOLOv3 608+ [BoFs](https://arxiv.org/abs/1902.04103) | 37.0 | 20ms | 24ms|
+| YOLOv3 608(ours baseline) | **38.8** | 20ms | 24ms|
+| YOLOv3 608+ ASFF | **40.6** | 22ms | 28ms|
+| YOLOv3 608+ ASFF\* | **42.4** | 22ms | 29ms|
+| YOLOv3 800+ ASFF\* | **43.9** | 34ms | 40ms|
++ https://arxiv.org/pdf/1911.09516.pdf
++ https://github.com/ruinmessi/ASFF
