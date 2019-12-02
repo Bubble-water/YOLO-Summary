@@ -144,6 +144,7 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 
 ### 5.7 Learning Spatial Fusion for Single-Shot Object Detection
 ![7.png](image/7.png)
+
 | System |  *test-dev mAP* | **Time** (V100) | **Time** (2080ti)|
 |:-------|:-----:|:-------:|:-------:|
 | [YOLOv3 608](http://pjreddie.com/darknet/yolo/) | 33.0 | 20ms| 24ms|
