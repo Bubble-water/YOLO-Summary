@@ -144,7 +144,6 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 
 ### 5.7 Learning Spatial Fusion for Single-Shot Object Detection
 ![7.png](image/7.png)
-
 | System |  *test-dev mAP* | **Time** (V100) | **Time** (2080ti)|
 |:-------|:-----:|:-------:|:-------:|
 | [YOLOv3 608](http://pjreddie.com/darknet/yolo/) | 33.0 | 20ms| 24ms|
@@ -155,3 +154,8 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 | YOLOv3 800+ ASFF\* | **43.9** | 34ms | 40ms|
 + https://arxiv.org/pdf/1911.09516.pdf
 + https://github.com/ruinmessi/ASFF
+### 5.8 Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
+![8.png](image/8.png)
++ https://arxiv.org/pdf/1911.08287.pdf
++ https://github.com/Zzh-tju/DIoU-darknet
++ https://mp.weixin.qq.com/s/St5WevfcVt4RubJsY-ZEHw
