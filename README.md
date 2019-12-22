@@ -158,5 +158,6 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 ### 5.8 Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
 ![8.png](image/8.png)
 + https://arxiv.org/pdf/1911.08287.pdf
++ https://github.com/Zzh-tju/DIoU
 + https://github.com/Zzh-tju/DIoU-darknet
 + https://mp.weixin.qq.com/s/St5WevfcVt4RubJsY-ZEHw
