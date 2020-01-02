@@ -91,6 +91,14 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 ### 3.4YoloV3/tiny-YoloV3+RaspberryPi3/Ubuntu LaptopPC+NCS/NCS2+USB Camera+Python+OpenVINO 
 ![2.png](image/2.png)
 + https://github.com/PINTO0309/OpenVINO-YoloV3
+### 3.5基于darknet框架实现CTPN版本自然场景文字检测与CNN+CTCOCR文字识别
++ https://github.com/chineseocr/darknet-ocr 
+### 3.6教程：用YOLO+Tesseract实现定制OCR系统
+《Tutorial : Building a custom OCR using YOLO and Tesseract》
++ https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba
+### 3.7基于YOLOv3的交通信号违章检测系统
+Traffic Signal Violation Detection System using Computer Vision - A Computer Vision based Traffic Signal Violation Detection System from video footage using YOLOv3 & Tkinter. (GUI Included)
++ https://github.com/anmspro/Traffic-Signal-Violation-Detection-System
 ## 四、YOLO模型压缩：
 ### 4.1、剪枝：
 + https://github.com/zbyuan/pruning_yolov3
@@ -144,7 +152,6 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 
 ### 5.7 Learning Spatial Fusion for Single-Shot Object Detection
 ![7.png](image/7.png)
-
 | System |  *test-dev mAP* | **Time** (V100) | **Time** (2080ti)|
 |:-------|:-----:|:-------:|:-------:|
 | [YOLOv3 608](http://pjreddie.com/darknet/yolo/) | 33.0 | 20ms| 24ms|
@@ -158,6 +165,7 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 ### 5.8 Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
 ![8.png](image/8.png)
 + https://arxiv.org/pdf/1911.08287.pdf
-+ https://github.com/Zzh-tju/DIoU
 + https://github.com/Zzh-tju/DIoU-darknet
 + https://mp.weixin.qq.com/s/St5WevfcVt4RubJsY-ZEHw
+### 5.9 xYOLO: A Model For Real-Time Object Detection In Humanoid Soccer On Low-End Hardware
++ https://arxiv.org/abs/1910.03159
