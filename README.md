@@ -153,6 +153,7 @@ Traffic Signal Violation Detection System using Computer Vision - A Computer Vis
 
 ### 5.7 Learning Spatial Fusion for Single-Shot Object Detection
 YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterNet等，在COCO上，38.1mAP/60 FPS，43.9mAP/29FPS！
+
 ![7.png](image/7.png)
 
 | System |  *test-dev mAP* | **Time** (V100) | **Time** (2080ti)|
