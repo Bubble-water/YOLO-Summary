@@ -105,6 +105,7 @@ Traffic Signal Violation Detection System using Computer Vision - A Computer Vis
 + https://github.com/coldlarry/YOLOv3-complete-pruning
 + https://github.com/Lam1360/YOLOv3-model-pruning
 + https://github.com/tanluren/yolov3-channel-and-layer-pruning
++ https://github.com/zbyuan/pruning_yolov3
 
 ## 五、YOLO系列
 ### 5.1 Enriching Variety of Layer-wise Learning Information by Gradient Combination
@@ -151,7 +152,9 @@ Traffic Signal Violation Detection System using Computer Vision - A Computer Vis
 + https://github.com/wlguan/Stronger-yolo-pytorch
 
 ### 5.7 Learning Spatial Fusion for Single-Shot Object Detection
+YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterNet等，在COCO上，38.1mAP/60 FPS，43.9mAP/29FPS！
 ![7.png](image/7.png)
+
 | System |  *test-dev mAP* | **Time** (V100) | **Time** (2080ti)|
 |:-------|:-----:|:-------:|:-------:|
 | [YOLOv3 608](http://pjreddie.com/darknet/yolo/) | 33.0 | 20ms| 24ms|
@@ -169,3 +172,7 @@ Traffic Signal Violation Detection System using Computer Vision - A Computer Vis
 + https://mp.weixin.qq.com/s/St5WevfcVt4RubJsY-ZEHw
 ### 5.9 xYOLO: A Model For Real-Time Object Detection In Humanoid Soccer On Low-End Hardware
 + https://arxiv.org/abs/1910.03159
+### 5.10、CSPNet: A New Backbone that can Enhance Learning Capability of CNN
+![9.png](image/9.png)
++ https://arxiv.org/abs/1911.11929
++ https://github.com/WongKinYiu/CrossStagePartialNetworks
