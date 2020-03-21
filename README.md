@@ -99,6 +99,9 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 ### 3.7基于YOLOv3的交通信号违章检测系统
 Traffic Signal Violation Detection System using Computer Vision - A Computer Vision based Traffic Signal Violation Detection System from video footage using YOLOv3 & Tkinter. (GUI Included)
 + https://github.com/anmspro/Traffic-Signal-Violation-Detection-System
+### 3.8OpenCV 'dnn' with NVIDIA GPUs: 1549% faster YOLO, SSD, and Mask R-CNN
+![10.png](image/10.png)
++ https://www.pyimagesearch.com/2020/02/10/opencv-dnn-with-nvidia-gpus-1549-faster-yolo-ssd-and-mask-r-cnn/
 ## 四、YOLO模型压缩：
 ### 4.1、剪枝：
 + https://github.com/zbyuan/pruning_yolov3
@@ -153,7 +156,6 @@ Traffic Signal Violation Detection System using Computer Vision - A Computer Vis
 
 ### 5.7 Learning Spatial Fusion for Single-Shot Object Detection
 YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterNet等，在COCO上，38.1mAP/60 FPS，43.9mAP/29FPS！
-
 ![7.png](image/7.png)
 
 | System |  *test-dev mAP* | **Time** (V100) | **Time** (2080ti)|
@@ -166,6 +168,7 @@ YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterN
 | YOLOv3 800+ ASFF\* | **43.9** | 34ms | 40ms|
 + https://arxiv.org/pdf/1911.09516.pdf
 + https://github.com/ruinmessi/ASFF
++ https://zhuanlan.zhihu.com/p/110205719
 ### 5.8 Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
 ![8.png](image/8.png)
 + https://arxiv.org/pdf/1911.08287.pdf
