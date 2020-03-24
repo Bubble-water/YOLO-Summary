@@ -109,6 +109,7 @@ Traffic Signal Violation Detection System using Computer Vision - A Computer Vis
 + https://github.com/Lam1360/YOLOv3-model-pruning
 + https://github.com/tanluren/yolov3-channel-and-layer-pruning
 + https://github.com/zbyuan/pruning_yolov3
++ https://github.com/SpursLipu/YOLOv3-ModelCompression-MultidatasetTraining-Multibackbone
 
 ## 五、YOLO系列
 ### 5.1 Enriching Variety of Layer-wise Learning Information by Gradient Combination
