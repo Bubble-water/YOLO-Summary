@@ -184,3 +184,5 @@ YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterN
 ![9.png](image/9.png)
 + https://arxiv.org/abs/1911.11929
 + https://github.com/WongKinYiu/CrossStagePartialNetworks
+### 5.11、Spiking-YOLO: Spiking Neural Network for Real-time Object Detection
++ https://arxiv.org/pdf/1903.06530.pdf
