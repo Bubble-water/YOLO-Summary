@@ -190,5 +190,6 @@ YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterN
 + https://github.com/WongKinYiu/PartialResidualNetworks/blob/master/pdf/iccvw-prn.pdf
 + https://github.com/WongKinYiu/PartialResidualNetworks
 ### 5.13、YOLOv4: Optimal Speed and Accuracy of Object Detection
+![yolov4.png](image/yolov4.png)
 + https://arxiv.org/abs/2004.10934
 + https://github.com/AlexeyAB/darknet
