@@ -4,7 +4,13 @@
 + https://github.com/AlexeyAB/darknet
 非常推荐AlexeyAB的darknet改进版  
 论文：
++ yolov3
 + https://pjreddie.com/media/files/papers/YOLOv3.pdf
++ yolov4
++ https://arxiv.org/abs/2004.10934
+目标检测发展进程：
+![deep_learning_object_detection_history](image/deep_learning_object_detection_history.PNG)
++ https://github.com/hoya012/deep_learning_object_detection
 
 YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 - [TensorFlow](#TensorFlow)
@@ -73,6 +79,8 @@ YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
 
 ## 一、yolo框架的解读：
 + https://zhuanlan.zhihu.com/p/32525231
++ yolov4解读
++ https://zhuanlan.zhihu.com/p/138510087
 
 
 ## 二、500问里目标检测解决的问题和yolo解读
@@ -105,6 +113,17 @@ Traffic Signal Violation Detection System using Computer Vision - A Computer Vis
 ### 3.9 Object Detection and Tracking
 ![11.png](image/sort_1.gif)
 + https://github.com/yehengchen/Object-Detection-and-Tracking
+### 3.10 基于yolov3轻量级人脸检测
+加入关键点的darknet训练框架，使用yolov3实现了轻量级的人脸检测
+![selfie.jpg](image/selfie.jpg)
+
++ https://github.com/ouyanghuiyu/darknet_face_with_landmark
+### 3.11 基于D/CIoU_YOLO_V3口罩识别
+![predictions9.jpg](image/predictions9.jpg)
++ https://github.com/DataXujing/DIoU_YOLO_V3
+### 3.12 Object Detection: YOLO, MobileNetv3 and EfficientDet
+![11.png](image/11.png)
++ https://github.com/imadelh/Object-Detection_MobileNetv3-EfficientDet-YOLO
 ## 四、YOLO模型压缩：
 ### 4.1、剪枝：
 + https://github.com/zbyuan/pruning_yolov3
