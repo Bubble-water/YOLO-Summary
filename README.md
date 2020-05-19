@@ -8,8 +8,9 @@
 + https://pjreddie.com/media/files/papers/YOLOv3.pdf
 + yolov4
 + https://arxiv.org/abs/2004.10934
+
 目标检测发展进程：
-![deep_learning_object_detection_history](image/deep_learning_object_detection_history.PNG)
+![deep_learning_object_detection_history](image/deep_learning_object_detection_history.png)
 + https://github.com/hoya012/deep_learning_object_detection
 
 YOLOv3复现代码合集涵盖 5 种常用深度学习框架：
