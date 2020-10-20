@@ -8,6 +8,8 @@
 + https://pjreddie.com/media/files/papers/YOLOv3.pdf
 + yolov4
 + https://arxiv.org/abs/2004.10934
++ yolov5
++ https://github.com/ultralytics/yolov5
 
 目标检测发展进程：
 ![deep_learning_object_detection_history](image/deep_learning_object_detection_history.png)
@@ -125,6 +127,18 @@ Traffic Signal Violation Detection System using Computer Vision - A Computer Vis
 ### 3.12 Object Detection: YOLO, MobileNetv3 and EfficientDet
 ![11.png](image/11.png)
 + https://github.com/imadelh/Object-Detection_MobileNetv3-EfficientDet-YOLO
+### 3.13 Yolo-Fastest：超超超快的开源ARM实时目标检测算法
+Network|VOC mAP(0.5)|COCO mAP(0.5)|Resolution|Run Time(Ncnn 1xCore)|Run Time(Ncnn 4xCore)|FLOPS|Weight size
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+[MobileNetV2-YOLOv3-Nano](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3/tree/master/MobileNetV2-YOLOv3-Nano)|65.27|30.13|320|11.36ms|5.48ms|0.55BFlops|3.0MB
+[Yolo-Fastest(our)](https://github.com/dog-qiuqiu/Yolo-Fastest/tree/master/Yolo-Fastest)|61.02|23.65|320|6.74ms|4.42ms|0.23BFlops|1.3MB
+[Yolo-Fastest-XL(our)](https://github.com/dog-qiuqiu/Yolo-Fastest/tree/master/Yolo-Fastest)|69.43|32.45|320|15.15ms|7.09ms|0.70BFlops|3.5MB
++ https://zhuanlan.zhihu.com/p/234506503
++ https://github.com/dog-qiuqiu/Yolo-Fastest
++ https://github.com/dog-qiuqiu/MobileNet-Yolo
+### 3.15 OpenCV ‘dnn’ with NVIDIA GPUs: 1549% faster YOLO, SSD, and Mask R-CNN
++ https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/
++ https://www.pyimagesearch.com/2020/02/10/opencv-dnn-with-nvidia-gpus-1549-faster-yolo-ssd-and-mask-r-cnn/
 ## 四、YOLO模型压缩：
 ### 4.1、剪枝：
 + https://github.com/zbyuan/pruning_yolov3
@@ -213,3 +227,8 @@ YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterN
 ![yolov4.png](image/yolov4.png)
 + https://arxiv.org/abs/2004.10934
 + https://github.com/AlexeyAB/darknet
+### 5.14、PP-YOLO: An Effective and Efficient Implementation of Object Detector
+![ppyolo_map_fps.png](image/ppyolo_map_fps.png)
++ https://arxiv.org/abs/2007.12099
++ https://github.com/PaddlePaddle/PaddleDetection
++ https://zhuanlan.zhihu.com/p/163580627
