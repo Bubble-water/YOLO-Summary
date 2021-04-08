@@ -232,3 +232,11 @@ YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterN
 + https://arxiv.org/abs/2007.12099
 + https://github.com/PaddlePaddle/PaddleDetection
 + https://zhuanlan.zhihu.com/p/163580627
+### 5.15、Scaled-YOLOv4: Scaling Cross Stage Partial Network
+![Scaled-YOLOv4.png](image/yolov4-scale.png)
++ https://arxiv.org/abs/2011.08036
++ https://github.com/WongKinYiu/ScaledYOLOv4
+### 5.16、You Only Look One-level Feature  
+![yolof.png](image/yolof.png)
++ https://arxiv.org/abs/2103.09460
++ https://github.com/megvii-model/YOLOF
