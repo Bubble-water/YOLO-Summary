@@ -139,6 +139,9 @@ Network|VOC mAP(0.5)|COCO mAP(0.5)|Resolution|Run Time(Ncnn 1xCore)|Run Time(Ncn
 ### 3.15 OpenCV ‘dnn’ with NVIDIA GPUs: 1549% faster YOLO, SSD, and Mask R-CNN
 + https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/
 + https://www.pyimagesearch.com/2020/02/10/opencv-dnn-with-nvidia-gpus-1549-faster-yolo-ssd-and-mask-r-cnn/
+### 3.16 yolov5-face
+在yolov5的基础上增加landmark预测分支，loss使用wingloss,使用yolov5s取得了相对于retinaface-r50更好的性能
++ https://github.com/deepcam-cn/yolov5-face
 ## 四、YOLO模型压缩：
 ### 4.1、剪枝：
 + https://github.com/zbyuan/pruning_yolov3
@@ -240,3 +243,7 @@ YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterN
 ![yolof.png](image/yolof.png)
 + https://arxiv.org/abs/2103.09460
 + https://github.com/megvii-model/YOLOF
+### 5.17、You Only Learn One Representation: Unified Network for Multiple Tasks
+![YOLOR.png](image/YOLOR.png)
++ https://arxiv.org/abs/2105.04206
++ https://github.com/WongKinYiu/yolor
