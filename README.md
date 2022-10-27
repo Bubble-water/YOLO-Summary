@@ -142,6 +142,24 @@ Network|VOC mAP(0.5)|COCO mAP(0.5)|Resolution|Run Time(Ncnn 1xCore)|Run Time(Ncn
 ### 3.16 yolov5-face
 在yolov5的基础上增加landmark预测分支，loss使用wingloss,使用yolov5s取得了相对于retinaface-r50更好的性能
 + https://github.com/deepcam-cn/yolov5-face
+### 3.17 yolov7-face
++ https://github.com/jinfagang/yolov7-face
+### 3.18 YOLO ALL YOU NEED
+![YOLOU2.png](image/YOLOU2.png)
++ https://github.com/jizhishutong/YOLOU
+![FastestDet.png](image/FastestDet.png)
++ https://github.com/dog-qiuqiu/FastestDet
+![nanodet-plus-arch.png](image/nanodet-plus-arch.png)
++ https://github.com/RangiLyu/nanodet
+![YOLOAir.png](image/YOLOAir.png)
++ https://github.com/iscyy/yoloair
+![mmyolo.jpg](image/mmyolo.jpg)
++ https://github.com/open-mmlab/mmyolo
+![PPYOLO.png](image/PPYOLO.png)
++ https://github.com/PaddlePaddle/PaddleYOLO
+![YOLOC.png](image/YOLOC.png)
++ https://github.com/iloveai8086/YOLOC
+
 ## 四、YOLO模型压缩：
 ### 4.1、剪枝：
 + https://github.com/zbyuan/pruning_yolov3
@@ -247,3 +265,15 @@ YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterN
 ![YOLOR.png](image/YOLOR.png)
 + https://arxiv.org/abs/2105.04206
 + https://github.com/WongKinYiu/yolor
+### 5.18、YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+![YOLOV7.png](image/YOLOV7.png)
++ https://arxiv.org/abs/2207.02696
++ https://github.com/WongKinYiu/yolov7
+## 5.19、YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications
+![YOLOV6.png](image/YOLOV6.png)
++ https://arxiv.org/abs/2209.02976
++ https://github.com/meituan/YOLOv6
+## 5.20、YOLOX: Exceeding YOLO Series in 2021
+![YOLOX.png](image/YOLOX.png)
++ https://arxiv.org/abs/2107.08430
++ https://github.com/Megvii-BaseDetection/YOLOX
