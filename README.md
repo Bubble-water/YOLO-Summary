@@ -277,3 +277,11 @@ YOLOv3+ASFF(自适应空间特征融合)组合，性能优于CornerNet和CenterN
 ![YOLOX.png](image/YOLOX.png)
 + https://arxiv.org/abs/2107.08430
 + https://github.com/Megvii-BaseDetection/YOLOX
+## 5.21 You Only :eyes: Once for Panoptic ​ :car: Perception
+![yolop.png](image/yolop.png)
++ https://arxiv.org/abs/2108.11250
++ https://github.com/hustvl/YOLOP
+## 5.22 YOLOPv2:rocket:: Better, Faster, Stronger for Panoptic driving Perception
+![YOLOPV2.jpg](image/YOLOPV2.jpg)
++ https://arxiv.org/abs/2208.11434
++ https://github.com/CAIC-AD/YOLOPv2
